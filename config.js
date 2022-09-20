@@ -8,7 +8,7 @@ global.owner = [
 ] //Numeros de owner 
 
 global.mods = ['59172945992'] 
-global.prems = ['50489079501', '5219631769130', '573125484672']
+global.prems = ['5217831164489, '5219631769130', '573125484672']
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
